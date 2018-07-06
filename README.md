@@ -29,7 +29,7 @@ Also included are templates for your talk description that will be published on 
 
 - [ ] Choose a [presentation topic](#planning-your-talk-topic)
 - [ ] Send @tgerke or @jhcreed your [talk description](#talk-description)
-- [ ] (Prepare your slides)[#slides-and-presentation-tips]
+- [ ] [Prepare your slides](#slides-and-presentation-tips)
 - [ ] Write a [companion R script](#companion-script)
 - [ ] If using this speaker kit, rename or remove the speaker kit's `README.md`
 - [ ] Create a [README for your talk](#talk-readme)
