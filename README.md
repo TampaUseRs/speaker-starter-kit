@@ -25,6 +25,16 @@ Aim to provide three files with your presentation:
 More details and tips for each of these files are included below.
 Also included are templates for your talk description that will be published on Meetup and sent out to the @TampaUseRs group.
 
+## Talk Prep Checklist
+
+- [ ] Choose a [presentation topic](#planning-your-talk-topic)
+- [ ] Send @tgerke or @jhcreed your [talk description](#talk-description)
+- [ ] (Prepare your slides)[#slides-and-presentation-tips]
+- [ ] Write a [companion R script](#companion-script)
+- [ ] If using this speaker kit, rename or remove the speaker kit's `README.md`
+- [ ] Create a [README for your talk](#talk-readme)
+- [ ] [Submit your talk materials](#submit-your-talk-materials)
+
 ## Planning Your Talk Topic
 
 Plan for a 20-30 minute talk.
@@ -42,14 +52,6 @@ Working through an example is an excellent way to demonstrate a package or techn
 If using an external dataset or data source in your examples, try to use only one dataset.
 That way, you'll only have to explain your data structure one time in your talk.
 Remember: you'll be presenting to data enthusiasts who love to poke around a good dataset and will certainly want to ask questions about the dataset you choose.
-
-## Talk Prep Checklist
-
-- [ ] Send @tgerke or @jhcreed your [talk description](#talk-description)
-- [ ] Write a [companion R script](#companion-script)
-- [ ] If using this speaker kit, rename or remove the speaker kit's `README.md`
-- [ ] Create a [README for your talk](#talk-readme)
-- [ ] [Submit your talk materials](#submit-your-talk-materials)
 
 ## Talk Description
 
