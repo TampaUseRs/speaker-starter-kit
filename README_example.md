@@ -2,9 +2,9 @@
 title: Your Talk Title
 presenter: Your Name
 date: 2006-01-02
-email: you@email.com     # if you want, delete otherwise
-twitter: @yourhandle     # if you want, delete otherwise
-web: https://www.you.com # if you want, delete otherwise
+email: you@email.com
+twitter: "@yourhandle"
+web: https://www.example.com
 ---
 
 ## Description
