@@ -27,12 +27,24 @@ Also included are templates for your talk description that will be published on 
 
 ## Talk Prep Checklist
 
+#### Three weeks before your talk
+
+- [ ] Confirm your presentation date with the TampaUsers organizers via our [Meetup page][trug-meetup]
+
+#### Two weeks before your talk
+
 - [ ] Choose a [presentation topic](#planning-your-talk-topic)
-- [ ] Send your [talk description](#talk-description) to TampaUsers organizers via our [Meetup page][trug-meetup]
+- [ ] Send your [talk description](#talk-description) to TampaUsers organizers via [Meetup][trug-meetup]
+
+#### Prepare your talk
+
 - [ ] [Prepare your slides](#slides-and-presentation-tips)
 - [ ] Write a [companion R script](#companion-script)
 - [ ] If using this speaker kit, rename or remove the speaker kit's `README.md`
 - [ ] Create a [README for your talk](#talk-readme)
+
+#### 1-3 days before your talk
+
 - [ ] [Submit your talk materials](#submit-your-talk-materials)
 
 ## Planning Your Talk Topic
