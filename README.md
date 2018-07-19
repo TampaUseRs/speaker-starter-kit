@@ -29,12 +29,12 @@ Also included are templates for your talk description that will be published on 
 
 #### Three weeks before your talk
 
-- [ ] Confirm your presentation date with the TampaUsers organizers via our [Meetup page][trug-meetup]
+- [ ] Confirm your presentation date with the TampaUsers organizers at <UseRTampa@gmail.com> or via our [Meetup page][trug-meetup]
 
 #### Two weeks before your talk
 
 - [ ] Choose a [presentation topic](#planning-your-talk-topic)
-- [ ] Send your [talk description](#talk-description) to TampaUsers organizers via [Meetup][trug-meetup]
+- [ ] Send your [talk description](#talk-description) to TampaUsers organizers at <UseRTampa@gmail.com> or via [Meetup][trug-meetup]
 
 #### Prepare your talk
 
@@ -211,7 +211,7 @@ There are three ways to have your slides included in this repository:
 
     7. Navigate to your fork on GitHub, choose your new branch from the "Branch" drop-down menu near the top of the page, and then select "New Pull Request". By default, GitHub will choose the master branch of the TampaUseRs repo, but check that this is the "base" branch. Enter a short description and click "Create Pull Request".
 
-2. Contact the Tampa R Users Group meetup organizers via our [Meetup page][trug-meetup] to send the materials via email.
+2. Send your materials to Tampa R Users Group meetup organizers at <UseRTampa@gmail.com>.
 
 3. Host your slide materials online (GitHub, personal website, etc.) and send the link to us via [Twitter][trug-twitter] or [Meetup][trug-meetup].
 
