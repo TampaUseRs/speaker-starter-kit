@@ -119,6 +119,20 @@ Here are three resources that can dramatically increase the effectiveness of you
 
 3. [Presenting Effectively](https://kieranhealy.org/blog/archives/2018/03/24/making-slides/) by Kieran Healy
 
+### Things to Know About the Presentation Space
+
+Currently, the Tampa R UseRs Group is hosted at [Southern Brewing and Wine Making](https://www.southernbrewingwinemaking.com/) at [4500 N Nebraska Ave, Tampa, FL](https://goo.gl/maps/33VS8NAP3N52).
+
+Here are a few tips to keep in mind:
+
+- The presentation is projected on a flat screen television either in an area adjacent to the bar or outside.
+
+- If we're hosting inside, the room may be loud and we'll use a microphone and loudspeaker to help everyone hear. We'll try to have a mic stand available for the live coding portion, but please let the organizers know if live coding is a major component of your presentation.
+
+- There is free Wi-Fi access available at the venue, but it will be considerably slower and more flaky than your internet at home. It's a good idea to be able to present without internet access, or to limit examples that require the internet to utilize minimal bandwidth.
+
+    If you do use the internet in your presentation, make sure you have a backup plan in case the internet decides not to work.
+
 ### Using R Markdown to Prepare Your Slides
 
 You're welcome to make your slides in the presentation software of your choice.
